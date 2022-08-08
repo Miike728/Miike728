@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miike728
-- 👀 I’m interested in hacking, minecraft servers and programming
-- 🌱 I’m currently learning programming
+- 👀 I’m interested in cloud computing, minecraft servers and programming
+- 🌱 I’m currently learning cloud computing
 - 📫 You can reach me at miike@miike7.com
 - OwO, what's this?
 <!---
