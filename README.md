@@ -1,4 +1,6 @@
-- 👋 Hi, I'm @Miike728
+
+
+- 👋 Hi, I'm Miike! <img src="furry.gif" alt="Hewwo" width="100" height="50"> 
 - 👀 I'm interested in a variety of topics, including cloud computing, Minecraft servers, cybersecurity, programming, electronics, and many others.
 - 🌱 I'm currently working on EspinaCraft
 - 📫 You can reach me at miike@miike7.com
