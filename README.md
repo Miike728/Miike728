@@ -101,3 +101,6 @@ JavaScript               1 repo              ███░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Miike728)
+
+![furry progressbar](https://readme-components.vercel.app/api?component=linearprogress&design=neon&value=99&skill=Furry&fill=008f39)
+
