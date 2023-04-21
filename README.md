@@ -35,7 +35,7 @@ uwu en proceso de creación :D
 [![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=Minecraft&text=5)](https://github.com/harish-sethuraman/readme-components)
 
 # Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miike728&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miike728&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
@@ -53,7 +53,7 @@ uwu en proceso de creación :D
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm a Night furry 🦉** 
 
 ```text
 🌞 Morning                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
