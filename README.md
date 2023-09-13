@@ -1,3 +1,4 @@
+<!---
 - 👋 Hi, I'm Miike! <img src="furry.gif" alt="Hewwo" width="80" height="50"> 
 - 👀 I'm interested in a variety of topics, including cloud computing, Minecraft servers, cybersecurity, programming, electronics, and many others.
 - 🌱 I'm currently working on EspinaCraft
@@ -6,10 +7,9 @@
 - 💻 I also know C++ and C#, HTML, and some other languages.
 - 🔧 I'm a SysAdmin.
 - 🐾 OwO, what's this?
-<!---
 Miike728/Miike728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 # 🛠️ My Favorite Tools
 ## 🌐 Browsers
@@ -105,6 +105,8 @@ You can click the Preview link to take a look at your changes.
 [![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=slack&text=4)](https://github.com/harish-sethuraman/readme-components)
 [![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=github&text=5)](https://github.com/harish-sethuraman/readme-components)
 [![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=Minecraft&text=5)](https://github.com/harish-sethuraman/readme-components)
+
+--->
 
 # Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miike728&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
