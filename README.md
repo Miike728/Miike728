@@ -81,7 +81,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miike728&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Miike728)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.5%20thousand%20lines%20of%20code-blue)
