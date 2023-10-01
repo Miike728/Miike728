@@ -81,7 +81,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Stats
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Miike728&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miike728&layout=compact)
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.5%20thousand%20lines%20of%20code-blue)
