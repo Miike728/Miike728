@@ -85,13 +85,13 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miike728)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.7 MB Used in GitHub's Storage 
  > 
-> 🏆 142 Contributions in the Year 2023
+> 🏆 144 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -102,21 +102,21 @@ You can click the Preview link to take a look at your changes.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                40 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌆 Daytime                50 commits          ████████░░░░░░░░░░░░░░░░░   31.25 % 
-🌃 Evening                31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-🌙 Night                  39 commits          ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+🌞 Morning                40 commits          ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+🌆 Daytime                52 commits          ████████░░░░░░░░░░░░░░░░░   32.10 % 
+🌃 Evening                31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+🌙 Night                  39 commits          ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   38 commits          ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Monday                   38 commits          ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
 Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Wednesday                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Friday                   28 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Sunday                   32 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Wednesday                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Thursday                 33 commits          █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Friday                   28 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Sunday                   32 commits          █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
 ```
 
 
@@ -143,7 +143,7 @@ Pawn                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Miike728/Miike728/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2023 18:38:07 UTC
+ Last Updated on 10/11/2023 18:37:41 UTC
 <!--END_SECTION:waka-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Miike728&color=brightgreen&base=347)
