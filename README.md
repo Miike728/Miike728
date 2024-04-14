@@ -85,7 +85,7 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miike728)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -97,33 +97,6 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                53 commits          ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-🌆 Daytime                70 commits          █████████░░░░░░░░░░░░░░░░   34.15 % 
-🌃 Evening                40 commits          █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-🌙 Night                  42 commits          █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   58 commits          ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-Tuesday                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Wednesday                36 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Thursday                 34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Friday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Sunday                   36 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -141,7 +114,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Miike728/Miike728/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2024 18:37:33 UTC
+ Last Updated on 14/04/2024 22:57:46 UTC
 <!--END_SECTION:waka-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Miike728&color=brightgreen&base=347)
