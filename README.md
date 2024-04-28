@@ -157,7 +157,6 @@ C#                       1 repo              █░░░░░░░░░░�
  Last Updated on 27/04/2024 18:37:12 UTC
 <!--END_SECTION:waka-->
 
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Miike728&color=brightgreen&base=347)
-<!---
-![furry progressbar](https://readme-components.vercel.app/api?component=linearprogress&design=neon&value=99&skill=Furry&fill=008f39)
---->
