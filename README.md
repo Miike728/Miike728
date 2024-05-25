@@ -99,11 +99,15 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miike728)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-342.8%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2054%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-682.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.7 MB Used in GitHub's Storage 
+ > 
+> 🏆 102 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -114,21 +118,21 @@ You can click the Preview link to take a look at your changes.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                63 commits          ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-🌆 Daytime                89 commits          ████████░░░░░░░░░░░░░░░░░   32.36 % 
-🌃 Evening                76 commits          ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-🌙 Night                  47 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+🌞 Morning                63 commits          ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+🌆 Daytime                89 commits          ████████░░░░░░░░░░░░░░░░░   32.13 % 
+🌃 Evening                77 commits          ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+🌙 Night                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   65 commits          ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Wednesday                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Thursday                 43 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Friday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Sunday                   60 commits          █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Monday                   65 commits          ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Wednesday                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Thursday                 43 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Friday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Saturday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Sunday                   61 commits          ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
 ```
 
 
@@ -136,6 +140,9 @@ Sunday                   60 commits          █████░░░░░░�
 
 ```text
 🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+C++                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -155,7 +162,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Miike728/Miike728/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2024 18:37:33 UTC
+ Last Updated on 25/05/2024 22:40:33 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
