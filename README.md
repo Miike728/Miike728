@@ -138,7 +138,8 @@ Sunday                   65 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TOML                     2 mins              █████████████████████████   100.00 % 
+YAML                     41 mins             █████████████████████░░░░   83.47 % 
+TOML                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -158,7 +159,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Miike728/Miike728/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 18:38:00 UTC
+ Last Updated on 24/06/2024 18:39:57 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
