@@ -138,7 +138,8 @@ Sunday                   65 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C++                      3 hrs 59 mins       █████████████████████████   99.98 % 
+C++                      3 hrs 59 mins       █████████████████████████   99.07 % 
+PHP                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
@@ -159,7 +160,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Miike728/Miike728/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2024 18:40:41 UTC
+ Last Updated on 20/07/2024 18:40:09 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
