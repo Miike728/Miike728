@@ -105,6 +105,8 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 3.7 MB Used in GitHub's Storage 
  > 
+> 🏆 138 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -138,8 +140,8 @@ Sunday                   66 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-YAML                     3 mins              █████████████░░░░░░░░░░░░   50.66 % 
-Java Properties          3 mins              ████████████░░░░░░░░░░░░░   49.34 % 
+YAML                     5 mins              ███████████████░░░░░░░░░░   58.47 % 
+Java Properties          3 mins              ██████████░░░░░░░░░░░░░░░   41.53 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -159,7 +161,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Miike728/Miike728/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2024 18:43:48 UTC
+ Last Updated on 14/09/2024 18:41:41 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
