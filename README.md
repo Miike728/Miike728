@@ -105,8 +105,6 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 3.7 MB Used in GitHub's Storage 
  > 
-> 🏆 138 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -160,7 +158,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Miike728/Miike728/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2024 18:45:17 UTC
+ Last Updated on 04/10/2024 18:44:44 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
