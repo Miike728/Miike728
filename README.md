@@ -1,16 +1,12 @@
 
-- 👋 Hi, I'm Miike! <img src="furry.gif" alt="Hewwo" width="80" height="50">
+- 👋 Hi, I'm Miike!
 - 📫 You can reach me at miike@miike7.com
 <!---
 
 - 👀 I'm interested in a variety of topics, including cloud computing, Minecraft servers, cybersecurity, programming, electronics, and many others.
 - 🌱 I'm currently working on ----
-- 🐍 I know Python and some C++.
-- 💻 I'm learning C#.
+- 🐍 I know Python, C# & C++.
 - 🔧 I'm a SysAdmin.
-- 🐾 OwO, what's this?
-Miike728/Miike728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
 
 
@@ -64,10 +60,11 @@ You can click the Preview link to take a look at your changes.
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 
+<!---
 ## 🤖 AI
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+--->
 
 ## 🗄️ Servers
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -90,7 +87,6 @@ You can click the Preview link to take a look at your changes.
 [![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=visualstudio&text=2)](https://github.com/harish-sethuraman/readme-components)
 [![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=Jira&text=5)](https://github.com/harish-sethuraman/readme-components)
 [![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=Minecraft&text=5)](https://github.com/harish-sethuraman/readme-components)
-
 --->
 
 
