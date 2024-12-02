@@ -136,7 +136,8 @@ Sunday                   78 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      6 mins              █████████████████████████   99.03 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -156,7 +157,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Miike728/Miike728/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2024 18:45:23 UTC
+ Last Updated on 02/12/2024 18:48:25 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
