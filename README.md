@@ -101,6 +101,8 @@
 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
+> 🏆 3 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -154,7 +156,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Miike728/Miike728/main/assets/bar_graph.png)
 
 
- Last Updated on 24/01/2025 18:43:54 UTC
+ Last Updated on 25/01/2025 18:40:57 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
