@@ -101,8 +101,6 @@
 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -136,9 +134,9 @@ Sunday                   78 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               51 mins             █████████████████░░░░░░░░   69.09 % 
-CSS                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-HTML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+JavaScript               10 mins             █████████░░░░░░░░░░░░░░░░   36.16 % 
+CSS                      10 mins             █████████░░░░░░░░░░░░░░░░   35.83 % 
+HTML                     8 mins              ███████░░░░░░░░░░░░░░░░░░   28.01 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -158,7 +156,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Miike728/Miike728/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2025 18:44:47 UTC
+ Last Updated on 07/02/2025 18:44:32 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
