@@ -134,9 +134,7 @@ Sunday                   78 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               10 mins             █████████░░░░░░░░░░░░░░░░   36.16 % 
-CSS                      10 mins             █████████░░░░░░░░░░░░░░░░   35.83 % 
-HTML                     8 mins              ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -156,7 +154,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Miike728/Miike728/main/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2025 18:44:32 UTC
+ Last Updated on 08/02/2025 18:41:02 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
