@@ -101,7 +101,7 @@
 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 3 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -136,7 +136,7 @@ Sunday                   78 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C++                      11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -156,7 +156,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Miike728/Miike728/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2025 18:46:27 UTC
+ Last Updated on 04/03/2025 18:47:26 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
