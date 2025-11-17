@@ -136,9 +136,7 @@ Sunday                   819 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 1 hr 5 mins         ██████████████████░░░░░░░   71.40 % 
-C++                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+C++                      3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -158,7 +156,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Miike728/Miike728/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 18:48:11 UTC
+ Last Updated on 17/11/2025 18:51:24 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
