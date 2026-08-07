@@ -109,42 +109,6 @@
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                992 commits         ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-🌆 Daytime                1231 commits        ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-🌃 Evening                645 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-🌙 Night                  1458 commits        ████████░░░░░░░░░░░░░░░░░   33.70 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   697 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Tuesday                  41 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Wednesday                116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Thursday                 277 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Friday                   1479 commits        █████████░░░░░░░░░░░░░░░░   34.19 % 
-Saturday                 883 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Sunday                   833 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -162,7 +126,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Miike728/Miike728/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:10:10 UTC
+ Last Updated on 07/08/2026 00:26:03 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
